@@ -9,3 +9,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * When pouring coffee (or drinks in general) don't hold your cup in the air. Lay it down on a table first before pouring.
 * Wear sunglasses when outside.
 * For easier teeth flossing, tie both ends together.
+* Care for your toes when opening a door.
