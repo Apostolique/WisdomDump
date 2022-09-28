@@ -10,3 +10,6 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Wear sunglasses when outside.
 * For easier teeth flossing, tie both ends together.
 * Care for your toes when opening a door.
+* Rubbing your eyes is bad.
+* Breathing from the mouth is bad. It's better to breathe from the nose.
+* Sleeping on your stomach is bad for your spine and eyes.
