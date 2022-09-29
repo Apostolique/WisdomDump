@@ -13,3 +13,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Rubbing your eyes is bad.
 * Breathing from the mouth is bad. It's better to breathe from the nose.
 * Sleeping on your stomach is bad for your spine and eyes.
+* Most IRL pranks are not worth doing.
