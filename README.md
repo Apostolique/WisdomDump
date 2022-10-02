@@ -14,3 +14,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Breathing from the mouth is bad. It's better to breathe from the nose.
 * Sleeping on your stomach is bad for your spine and eyes.
 * Most IRL pranks are not worth doing.
+* Protect ears from loud noses, prevent permanent hearing loss. It's worth it to have noise reduction plugs with you.
