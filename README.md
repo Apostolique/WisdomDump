@@ -15,3 +15,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Sleeping on your stomach is bad for your spine and eyes.
 * Most IRL pranks are not worth doing.
 * Protect ears from loud noses, prevent permanent hearing loss. It's worth it to have noise reduction plugs with you.
+* Making lists is a good idea.
