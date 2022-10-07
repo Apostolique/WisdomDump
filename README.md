@@ -16,3 +16,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Most IRL pranks are not worth doing.
 * Protect ears from loud noses, prevent permanent hearing loss. It's worth it to have noise reduction plugs with you.
 * Making lists is a good idea.
+* There are days where you're smart and days where you're dumb. Plan during the good days.
