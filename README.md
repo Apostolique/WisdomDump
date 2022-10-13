@@ -17,3 +17,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Protect ears from loud noses, prevent permanent hearing loss. It's worth it to have noise reduction plugs with you.
 * Making lists is a good idea.
 * There are days where you're smart and days where you're dumb. Plan during the good days.
+* The first time you do a task, take your time, apply yourself and do it right. After you understand it you can optimize or automate it 
