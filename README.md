@@ -18,3 +18,6 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Making lists is a good idea.
 * There are days where you're smart and days where you're dumb. Plan during the good days.
 * The first time you do a task, take your time, apply yourself and do it right. After you understand it you can optimize or automate it.
+* Find your physical and psychological blindspots.
+  * One of my physical blindspot was when storing a glass behind other glasses in a cupboard. I'm likely to knock some on the way out if I'm not careful.
+  * One of my psychological blindspot is that I take my coffee black. This means that I can fill the cup with more coffee without caring. With that logic I might end up not leaving some for others if I'm not careful.
