@@ -22,3 +22,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
   * One of my physical blindspot was when storing a glass behind other glasses in a cupboard. I'm likely to knock some on the way out if I'm not careful.
   * One of my psychological blindspot is that I take my coffee black. This means that I can fill the cup with more coffee without caring. With that logic I might end up not leaving some for others if I'm not careful.
 * When learning new information or facts, it's a good practice to also memorize the data source or who taught it to you.
+* Use the right tools for the job when possible.
