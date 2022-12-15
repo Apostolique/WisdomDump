@@ -25,3 +25,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Use the right tools for the job when possible.
 * When you're happy try to remember how that feels, when you're sad too, or any emotions. Helps stay grounded over time I think.
 * If you put something in front of a door don't be surprised if people walk on it.
+* Time doesn't fly and life isn't short.
