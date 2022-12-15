@@ -24,3 +24,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * When learning new information or facts, it's a good practice to also memorize the data source or who taught it to you.
 * Use the right tools for the job when possible.
 * When you're happy try to remember how that feels, when you're sad too, or any emotions. Helps stay grounded over time I think.
+* If you put something in front of a door don't be surprised if people walk on it.
