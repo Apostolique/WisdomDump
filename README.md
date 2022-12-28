@@ -27,4 +27,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * If you put something in front of a door don't be surprised if people walk on it.
 * Time doesn't fly and life isn't short.
 * Everything that can be said can be said badly.
-* Ants have a super power when it comes to memory. Their memory is story physically on the ground. If the ground gets disturbed, they forget permanently.
+* Ants have a super power when it comes to memory. Their memory is stored physically on the ground. If the ground gets disturbed, they forget permanently.
