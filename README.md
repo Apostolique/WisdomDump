@@ -28,3 +28,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Time doesn't fly and life isn't short.
 * Everything that can be said can be said badly.
 * Ants have a super power when it comes to memory. Their memory is stored physically on the ground. If the ground gets disturbed, they forget permanently.
+* One of the ability I value the most in this information age is scanning. Scanning is going through large bodies of text and extracting the information you need quickly. The more you know about a subject, the faster you can scan, targeting specific keywords.
