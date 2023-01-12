@@ -29,3 +29,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Everything that can be said can be said badly.
 * Ants have a super power when it comes to memory. Their memory is stored physically on the ground. If the ground gets disturbed, they forget permanently.
 * One of the ability I value the most in this information age is scanning. Scanning is going through large bodies of text and extracting the information you need quickly. The more you know about a subject, the faster you can scan, targeting specific keywords.
+* To enjoy life more, I find that it's worth it to look at activities through the eyes of a pro. For example learning more about cinematography or filmmaking to enjoy movies and notice more of the details at play. Learn about what makes people passionate about a subject.
