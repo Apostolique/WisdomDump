@@ -34,3 +34,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * It's easy for a human to become a zombie.
 * A lot of human conversations can be summed by: someone trying to make someone else do something. It's useful to be able to spot when that happens whether it's you towards others or others towards you.
 * If something look impossible, you can work up to it with progressions.
+* We can all be somebody else's nobody.
