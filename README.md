@@ -33,7 +33,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * If you have something that's imperfect or broken, you can tell yourself that a 3D artist would pay good money for that.
 * It's easy for a human to become a zombie.
 * A lot of human conversations can be summed by: someone trying to make someone else do something. It's useful to be able to spot when that happens whether it's you towards others or others towards you.
-* If something look impossible, you can work up to it with progressions.
+* If something looks impossible, you can work up to it with progressions.
 * We can all be somebody else's nobody.
 * It's good to get a reality check.
 * It takes four hours to save the world.
