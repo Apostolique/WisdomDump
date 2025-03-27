@@ -36,4 +36,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * If something looks impossible, you can work up to it with progressions.
 * We can all be somebody else's nobody.
 * It's good to get a reality check.
-* It takes four hours to save the world.
+* It takes four hours to change the world.
