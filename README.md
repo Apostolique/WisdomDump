@@ -39,3 +39,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * It takes four hours to change the world.
 * The worlds that you create in your imagination can have infinite budget.
 * If you leave something dirty somewhere, it means that you expect someone else to take care of it.
+* Every interaction with someone else can be made magical.
