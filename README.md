@@ -40,3 +40,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * The worlds that you create in your imagination can have infinite budget.
 * If you leave something dirty somewhere, it means that you expect someone else to take care of it.
 * Every interaction with someone else can be made magical.
+* To go from a point A to a point B, try many different paths. I've gained so much insight from breaking away from a fixed routine while still reaching my destination.
