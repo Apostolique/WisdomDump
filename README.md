@@ -43,3 +43,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * To go from a point A to a point B, try many different paths. I've gained so much insight from breaking away from a fixed routine while still reaching my destination.
 * Don't be a whiner, fix it.
 * Always leave the opportunity for other people to impress you.
+* How well you can navigate the world depends on how smooth the narratives that you create are from subject to subject.
