@@ -4,6 +4,10 @@ Things I have learned.
 ## Description
 Not sure what this is meant to be yet. For now it will be random useless survival notes.
 
+## Questions
+
+* Does society value the right things?
+
 ## Unordered list
 
 * When pouring coffee (or drinks in general) don't hold your cup in the air. Lay it down on a table first before pouring.
