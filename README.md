@@ -2,7 +2,7 @@
 Things I have learned.
 
 ## Description
-Not sure what this is meant to be yet. For now it will be random useless survival notes.
+Not sure what this is meant to be yet. For now it will be random useless survival notes. While many points might seem to relate to one specific subjects, I think their value comes from how they can be applied to a different subject.
 
 ## Questions
 
