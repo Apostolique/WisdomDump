@@ -7,6 +7,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 ## Questions
 
 * Does society value the right things?
+* Are you still someone when no one is around?
 
 ## Unordered list
 
