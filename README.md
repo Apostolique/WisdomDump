@@ -9,6 +9,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Does society value the right things?
 * Are you still someone when no one is around?
 * Are you the sum of everything that happens to you?
+* Are you more intelligent when you don't have to think a lot?
 
 ## Unordered list
 
