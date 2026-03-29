@@ -12,6 +12,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Are you more intelligent when you don't have to think a lot?
 * When the year is over, do you have anything to show for it?
 * If someone figures out your programming, do you stay the same, or do you change?
+* Are adults allowed to be beginners?
 
 ## Unordered list
 
