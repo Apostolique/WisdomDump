@@ -16,6 +16,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Are adults allowed to be beginners?
 * Do you take too much for granted?
   * Is it good to take stuff for granted?
+* Are you the context that you are in?
 
 ## Unordered list
 
