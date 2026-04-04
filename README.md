@@ -60,3 +60,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Always leave the opportunity for other people to impress you.
 * How well you can navigate the world depends on how smooth the narratives that you create are from subject to subject.
 * Many tests in life require not being too smart.
+* Some gifts that you give will outlive you.
