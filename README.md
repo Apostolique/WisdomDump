@@ -19,6 +19,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Are you the context that you are in?
 * Should children be oppressed in a way that they can eventually free themselves?
 * goo goo ga ga
+* If someone offers their help, do you take it or do you refuse it?
 
 ## Unordered list
 
