@@ -63,3 +63,4 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * How well you can navigate the world depends on how smooth the narratives that you create are from subject to subject.
 * Many tests in life require not being too smart.
 * Some gifts that you give will outlive you.
+* It's possible to improve a cheap pizza from the grocery store by adding extra ingredients such as cheese, pepperoni, or mushrooms.
