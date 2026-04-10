@@ -20,6 +20,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Should children be oppressed in a way that they can eventually free themselves?
 * goo goo ga ga
 * If someone offers their help, do you take it or do you refuse it?
+* Are you the sum of everything that you produce?
 
 ## Unordered list
 
