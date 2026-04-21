@@ -22,6 +22,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * If someone offers their help, do you take it or do you refuse it?
 * Are you the sum of everything that you produce?
 * Is the smell test the greatest super power to have?
+* When does an idea become yours?
 
 ## Unordered list
 
