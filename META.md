@@ -10,4 +10,4 @@ The deeper idea is that this can be applied to many other concepts. How many tim
 
 ## sunglasses
 
-I don't think I had any deeper meaning with that one. It's just a generally good idea to protect your eyes.
+It's just a generally good idea to protect your eyes. You can also read this as: wear your PPE. It's easy to think that bad stuff can't happen to you. It's a good idea to take measures to protect yourself.
