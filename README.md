@@ -23,6 +23,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Are you the sum of everything that you produce?
 * Is the smell test the greatest super power to have?
 * When does an idea become yours?
+* Do you end up in a better place when you take good decisions?
 
 ## Unordered list
 
