@@ -24,6 +24,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Is the smell test the greatest super power to have?
 * When does an idea become yours?
 * Do you end up in a better place when you take good decisions?
+* Do you ever feel like the past is right now? Do you get a sort of nostalgia for the current moment in the present time?
 
 ## Unordered list
 
