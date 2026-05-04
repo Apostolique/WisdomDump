@@ -36,7 +36,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Breathing from the mouth is bad. It's better to breathe from the nose.
 * Sleeping on your stomach is bad for your spine and eyes.
 * Most IRL pranks are not worth doing.
-* Protect ears from loud noses, prevent permanent hearing loss. It's worth it to have noise reduction plugs with you.
+* Protect ears from loud noises, prevent permanent hearing loss. It's worth it to have noise reduction plugs with you.
 * Making lists is a good idea.
 * There are days where you're smart and days where you're dumb. Plan during the good days.
 * The first time you do a task, take your time, apply yourself and do it right. After you understand it you can optimize or automate it.
