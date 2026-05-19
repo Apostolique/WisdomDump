@@ -26,6 +26,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Do you end up in a better place when you take good decisions?
 * Do you ever feel like the past is right now? Do you get a sort of nostalgia for the current moment in the present time?
 * Do you have empathy for yourself?
+* Are we a single person?
 
 ## Unordered list
 
