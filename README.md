@@ -27,6 +27,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Do you ever feel like the past is right now? Do you get a sort of nostalgia for the current moment in the present time?
 * Do you have empathy for yourself?
 * Are we a single person?
+* Do you read the articles, or only the titles?
 
 ## Unordered list
 
