@@ -28,6 +28,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Do you have empathy for yourself?
 * Are we a single person?
 * Do you read the articles, or only the titles?
+* Do you ask a question if you already know the answer?
 
 ## Unordered list
 
