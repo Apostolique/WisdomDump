@@ -30,6 +30,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Do you read the articles, or only the titles?
 * Do you ask a question if you already know the answer?
 * How many moves ahead do you see?
+* Did you test it?
 
 ## Unordered list
 
