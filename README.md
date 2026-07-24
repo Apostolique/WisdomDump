@@ -32,6 +32,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * How many moves ahead do you see?
 * Did you test it?
 * Are you more of a depth first search or breadth first search person?
+* Are you able to hallucinate on command?
 
 ## Unordered list
 
