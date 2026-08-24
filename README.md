@@ -34,6 +34,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Are you more of a depth first search or breadth first search person?
 * Are you able to hallucinate on command?
 * What grounds you?
+* Should you ask the same question many times?
 
 ## Unordered list
 
