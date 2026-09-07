@@ -35,6 +35,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Are you able to hallucinate on command?
 * What grounds you?
 * Should you ask the same question many times?
+* Is being opinionated undervalued?
 
 ## Unordered list
 
