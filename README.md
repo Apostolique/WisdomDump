@@ -36,6 +36,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * What grounds you?
 * Should you ask the same question many times?
 * Is being opinionated undervalued?
+* Do you write for the present or do you write for the future?
 
 ## Unordered list
 
