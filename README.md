@@ -38,6 +38,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Is being opinionated undervalued?
 * Do you write for the present or do you write for the future?
 * Do you eat the best food first? Or do you keep it for last?
+* Is it your duty to know that something exists?
 
 ## Unordered list
 
