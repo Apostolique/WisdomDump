@@ -39,6 +39,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Do you write for the present or do you write for the future?
 * Do you eat the best food first? Or do you keep it for last?
 * Is it your duty to know that something exists?
+* If you lock your door, are you creating a world where people have to lock their doors?
 
 ## Unordered list
 
