@@ -41,6 +41,7 @@ Not sure what this is meant to be yet. For now it will be random useless surviva
 * Is it your duty to know that something exists?
 * If you lock your door, are you creating a world where people have to lock their doors?
 * Are you limited by your imagination or your ability to execute?
+* Do you ever let an itch go unscratched?
 
 ## Unordered list
 
